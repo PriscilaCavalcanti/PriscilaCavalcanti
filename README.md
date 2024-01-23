@@ -6,4 +6,4 @@
 ![Linkedin](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-<img align="center" src="https://simple-github-stats.vercel.app/?user=PriscilaCavalcanti&date=02/01/2023" />
+<img align="center" src="https://simple-github-stats.vercel.app/?user=PriscilaCavalcanti&date=01/01/2022" />
